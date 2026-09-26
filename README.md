@@ -37,4 +37,5 @@ J'ai également appris à insérer des images dans un fichier README, que ce soi
 
 Ce projet m'a permis de comprendre concrètement le flux de travail Git, de la modification locale jusqu'à la publication sur GitHub.
 
-Ce travail m'a pris environ 2h à réaliser.
+Ce travail m'a pris environ 2h à réaliser. 
+
