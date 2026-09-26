@@ -26,3 +26,15 @@ Chaque ligne de code écrite aujourd'hui est, à mes yeux, une brique de plus ve
 ## Une image locale
 
 ![Arbre dans un champ](images/images%20R.jpg)
+
+## Résumé de ce que j'ai appris
+
+J'ai appris les concepts fondamentaux de Git : le dépôt (repository), la branche, le commit et le push, ainsi que la différence entre le dépôt local et le dépôt distant sur GitHub.
+
+Les principales commandes/actions utilisées via GitHub Desktop sont : créer une branche, valider des modifications (commit), et les envoyer vers le dépôt distant (push origin).
+
+J'ai également appris à insérer des images dans un fichier README, que ce soit depuis une URL ou depuis un fichier local, en utilisant la syntaxe Markdown.
+
+Ce projet m'a permis de comprendre concrètement le flux de travail Git, de la modification locale jusqu'à la publication sur GitHub.
+
+Ce travail m'a pris environ 2h à réaliser.
