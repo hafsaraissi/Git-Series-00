@@ -22,3 +22,7 @@ Git, de son côté, représente pour moi bien plus qu'un outil technique : c'est
 J'aborde cet apprentissage avec curiosité, en gardant toujours en tête mon objectif de poursuivre en doctorat après ce master.
 
 Chaque ligne de code écrite aujourd'hui est, à mes yeux, une brique de plus vers le parcours scientifique que je veux construire.
+
+## Une image locale
+
+![Arbre dans un champ](images/images%20R.jpg)
